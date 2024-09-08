@@ -16,6 +16,10 @@ export default {
         "grayish-blue": "hsl(231, 7%, 65%)",
         "light-grayish-blue": "hsl(207, 33%, 95%)",
       },
+      screens: {
+        "2xl": "1440px",
+        "3xl": "1580px",
+      },
     },
   },
   plugins: [],
