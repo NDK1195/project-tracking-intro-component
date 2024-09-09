@@ -34,7 +34,7 @@ function App() {
               POWERFUL INSIGHTS INTO YOUR TEAM
             </h1>
 
-            <p className="mb-7 max-w-[268px] font-barlow text-xl leading-[26px] opacity-75 xl:mb-16">
+            <p className="mb-7 max-w-[300px] font-barlow text-xl leading-[26px] opacity-75 xl:mb-16">
               Project planning and time tracking for agile teams
             </p>
 
